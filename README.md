@@ -47,7 +47,7 @@ Player 1 :
 
 ## Gameplay
 
-<img src="/Screenshots/bomberman_1_min_gameplay.gif" width="1918" height="1140">
+<img src="/Screenshots/bomberman_1_min_gameplay.gif" width="960" height="540">
 
 ![Alt text](/Screenshots/Start.png?raw=true "Optional Title")
 
