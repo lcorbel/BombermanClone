@@ -47,4 +47,14 @@ Player 1 :
 
 ## Gameplay
 
-![Alt text]()
+![Alt text](/Screenshots/Start.png?raw=true "Optional Title")
+
+![Alt text](/Screenshots/bomb.png?raw=true "Optional Title")
+
+![Alt text](/Screenshots/bomb_explosion.png?raw=true "Optional Title")
+
+![Alt text](/Screenshots/item_and_walk_animation.png?raw=true "Optional Title")
+
+![Alt text](/Screenshots/death.png?raw=true "Optional Title")
+
+![Alt text](/Screenshots/multi.png?raw=true "Optional Title")
