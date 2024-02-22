@@ -55,6 +55,8 @@ Player 1 :
 
 ![Alt text](/Screenshots/item_and_walk_animation.png?raw=true "Optional Title")
 
+![Alt text](/Screenshots/big_radius.png?raw=true "Optional Title")
+
 ![Alt text](/Screenshots/death.png?raw=true "Optional Title")
 
 ![Alt text](/Screenshots/multi.png?raw=true "Optional Title")
